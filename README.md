@@ -32,8 +32,6 @@ It connects to an ASP.NET Core backend API for user management and file operatio
 ### 1. Clone the Repository
 
 git clone https://github.com/ayush4460/HFiles-Frontend.git
-
-cd frontend
  
 
 ### 2. Install Dependencies
