@@ -45,14 +45,14 @@ Open: http://localhost:3000
 
 ## 🔐 Features
 
-### ✅ Login & Signup with session support
+✅ Login & Signup with session support
 
-### 👤 User profile with editable fields
+👤 User profile with editable fields
 
-### 📤 Upload PDF/image medical records
+📤 Upload PDF/image medical records
 
-### 📁 View & delete uploaded files
+📁 View & delete uploaded files
 
-### 🎨 Responsive card layout with Tailwind
+🎨 Responsive card layout with Tailwind
 
-### 🔒 Protected dashboard using useAuth hook
+🔒 Protected dashboard using useAuth hook
