@@ -1,6 +1,6 @@
-# 🖥️ Medical Dashboard – Frontend
+# 🖥️ HFiles Medical Records Dashboard – Frontend
 
-This is the **frontend** for the Mini Medical Record Dashboard, built with **Next.js 13+**, **Tailwind CSS**, and **TypeScript**.  
+This is the **frontend** for the Medical Record Dashboard, built with **Next.js**, **Tailwind CSS**, and **TypeScript**.  
 It connects to an ASP.NET Core backend API for user management and file operations.
 
 
@@ -20,6 +20,7 @@ It connects to an ASP.NET Core backend API for user management and file operatio
 ### 1. Clone the Repository
 
 git clone https://github.com/yourusername/medical-dashboard-frontend.git
+
 cd medical-dashboard-frontend
 
 
@@ -42,16 +43,16 @@ Open: http://localhost:3000[http://localhost:3000]
 
 
 
-##🔐 Features
+## 🔐 Features
 
-###✅ Login & Signup with session support
+### ✅ Login & Signup with session support
 
-###👤 User profile with editable fields
+### 👤 User profile with editable fields
 
-###📤 Upload PDF/image medical records
+### 📤 Upload PDF/image medical records
 
-###📁 View & delete uploaded files
+### 📁 View & delete uploaded files
 
-###🎨 Responsive card layout with Tailwind
+### 🎨 Responsive card layout with Tailwind
 
-###🔒 Protected dashboard using useAuth hook
+### 🔒 Protected dashboard using useAuth hook
