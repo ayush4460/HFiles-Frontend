@@ -31,7 +31,7 @@ It connects to an ASP.NET Core backend API for user management and file operatio
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/medical-dashboard-frontend.git
+git clone https://github.com/ayush4460/HFiles-Frontend.git
 
 cd medical-dashboard-frontend
 
