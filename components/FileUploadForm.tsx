@@ -35,9 +35,9 @@ export default function FileUploadForm({ fileData, setFileData, setFile, handleU
         Please Add Your Medical Records
       </h2>
 
-      <form onSubmit={handleFormSubmit} className="space-y-4 text-sm">
+      <form onSubmit={handleFormSubmit} style={{display:'flex', flexDirection:'column', gap:'10px'}} className="space-y-4 text-sm">
         <select
-          className="w-full p-2 border rounded"
+          className="w-full p-3 border rounded"
           value={fileData.fileType}
           onChange={(e) => setFileData({ ...fileData, fileType: e.target.value })}
           required
@@ -55,7 +55,7 @@ export default function FileUploadForm({ fileData, setFileData, setFile, handleU
 
         <input
           type="text"
-          className="w-full p-2 border rounded"
+          className="w-full p-3 border rounded"
           placeholder="Enter Name of File"
           value={fileData.fileName}
           onChange={(e) => setFileData({ ...fileData, fileName: e.target.value })}
