@@ -4,7 +4,6 @@ This is the **frontend** for the Medical Record Dashboard, built with **Next.js*
 It connects to an ASP.NET Core backend API for user management and file operations.
 
 
-
 ## 🧩 Tech Stack
 
 | Tech            | Description                         |
@@ -12,6 +11,19 @@ It connects to an ASP.NET Core backend API for user management and file operatio
 | **Next.js 13+** | React framework with App Router     |
 | **Tailwind CSS**| Utility-first CSS for styling       |
 | **TypeScript**  | Type-safe frontend code             |
+
+
+
+## 📸 Screenshots
+
+### 📝 Sign Up Page
+![Sign Up](./public/screenshots/signup.png)
+
+### 🔐 Login Page
+![Login](./public/screenshots/login.png)
+
+### 📊 Dashboard Page
+![Dashboard](./public/screenshots/dashboard.png)
 
 
 
