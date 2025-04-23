@@ -36,9 +36,9 @@ npm run dev
 
 ### 4. Open the App
 
-Open: http://localhost:3000[http://localhost:3000]
+Open: http://localhost:3000
 
-⚠️ Make sure your backend is running at: http://localhost:5138[http://localhost:5138]
+⚠️ Make sure your backend is running at: http://localhost:5138
 
 
 
