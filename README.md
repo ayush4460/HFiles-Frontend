@@ -4,7 +4,6 @@ This is the **frontend** for the Medical Record Dashboard, built with **Next.js*
 It connects to an ASP.NET Core backend API for user management and file operations.
 
 
-
 ## 🧩 Tech Stack
 
 | Tech            | Description                         |
@@ -15,14 +14,25 @@ It connects to an ASP.NET Core backend API for user management and file operatio
 
 
 
+## 📸 Screenshots
+
+### 📝 Sign Up Page
+![Sign Up](./public/screenshots/signup.png)
+
+### 🔐 Login Page
+![Login](./public/screenshots/login.png)
+
+### 📊 Dashboard Page
+![Dashboard](./public/screenshots/dashboard.png)
+
+
+
 ## 🚀 Local Setup
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/medical-dashboard-frontend.git
-
-cd medical-dashboard-frontend
-
+git clone https://github.com/ayush4460/HFiles-Frontend.git
+ 
 
 ### 2. Install Dependencies
 
